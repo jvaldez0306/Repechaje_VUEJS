@@ -1,0 +1,72 @@
+{
+  "areas": [
+    {
+      "id": 1,
+      "departamento": "finanzas",
+      "nombre_encargado": "juan perez",
+      "numero_funcionarios": 8
+    },
+    {
+      "id": 2,
+      "departamento": "legal",
+      "nombre_encargado": "jose ramos",
+      "numero_funcionarios": 3
+    },
+    {
+      "id": 3,
+      "departamento": "informatica",
+      "nombre_encargado": "ronald lopez",
+      "numero_funcionarios": 2
+    }
+  ],
+  "activos": [
+    {
+      "id": 1,
+      "tipo": "computadora",
+      "marca": "HP",
+      "modelo": "pavillon 360",
+      "estado": "nuevo",
+      "areaId": 3
+    },
+    {
+      "id": 2,
+      "tipo": "impresora",
+      "marca": "Epson",
+      "modelo": "L5190 series",
+      "estado": "usado",
+      "areaId": 1
+    },
+    {
+      "id": 3,
+      "tipo": "escaner",
+      "marca": "Epson",
+      "modelo": "B11B228201",
+      "estado": "desuso",
+      "areaId": 2
+    },
+    {
+      "id": 4,
+      "tipo": "fotocopiadora",
+      "marca": "Canon",
+      "modelo": "1643IF II ",
+      "estado": "nuevo",
+      "areaId": 2
+    },
+    {
+      "id": 5,
+      "tipo": "Monitor",
+      "marca": "Samsung",
+      "modelo": "LC24F",
+      "estado": "nuevo",
+      "areaId": 1
+    },
+    {
+      "id": 6,
+      "tipo": "Mouse",
+      "marca": "Samsung",
+      "modelo": "LC24F",
+      "estado": "nuevo",
+      "areaId": 1
+    }
+  ]
+}
